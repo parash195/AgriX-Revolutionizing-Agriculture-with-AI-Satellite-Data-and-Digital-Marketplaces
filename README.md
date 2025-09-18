@@ -6,6 +6,7 @@ Key Technologies :
 The platform leverages AI-powered disease detection through smartphone cameras, enabling early identification of crop and poultry health issues. Satellite data from platforms like Google Earth Engine and Sentinel Hub is used to analyze soil moisture, salinity, and vegetation health, providing accurate crop recommendations. A multilingual AI chatbot, supporting Bangla, English, and Banglish, ensures inclusive access to farming advice, while real-time weather API integration supports seasonal crop planning and reduces climate-related risks.
 
 Marketplace and Community Engagement :
+Agrix can allows farmers to use cos and energy more efficiently
 AgriX features a built-in farmer-to-buyer marketplace, connecting producers directly to buyers to eliminate middlemen and guarantee fair pricing. Beyond commerce, it fosters community growth through a live event map, allowing farmers to discover local agricultural fairs, workshops, and training programs. This promotes knowledge sharing, skill development, and stronger farming networks.
 
 Impact :
