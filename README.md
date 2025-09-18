@@ -1,6 +1,6 @@
 # AgriX: Revolutionizing Agriculture with AI, Satellite Data, and Digital Marketplaces
 
-AgriX is an innovative digital platform designed to empower farmers in Bangladesh by uniting artificial intelligence, satellite imagery, weather forecasting, and a direct farmer-to-buyer marketplace into a single, easy-to-use system. It addresses critical challenges such as crop disease misdiagnosis, lack of timely agricultural information, dependency on intermediaries, and poor planning caused by unpredictable weather patterns and soil degradation.
+AgriX is an innovative digital platform designed to empower the farmers in Bangladesh by uniting artificial intelligence, satellite imagery, weather forecasting, and a direct farmer-to-buyer marketplace into a single, easy-to-use system. It addresses critical challenges such as crop disease misdiagnosis, lack of timely agricultural information, dependency on intermediaries, and poor planning caused by unpredictable weather patterns and soil degradation.
 
 Key Technologies :
 The platform leverages AI-powered disease detection through smartphone cameras, enabling early identification of crop and poultry health issues. Satellite data from platforms like Google Earth Engine and Sentinel Hub is used to analyze soil moisture, salinity, and vegetation health, providing accurate crop recommendations. A multilingual AI chatbot, supporting Bangla, English, and Banglish, ensures inclusive access to farming advice, while real-time weather API integration supports seasonal crop planning and reduces climate-related risks.
